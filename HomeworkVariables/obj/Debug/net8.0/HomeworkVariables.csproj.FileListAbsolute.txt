@@ -1,0 +1,15 @@
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.AssemblyInfoInputs.cache
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.AssemblyInfo.cs
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.csproj.CoreCompileInputs.cache
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.sourcelink.json
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net8.0\HomeworkVariables.exe
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net8.0\HomeworkVariables.deps.json
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net8.0\HomeworkVariables.runtimeconfig.json
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net8.0\HomeworkVariables.dll
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net8.0\HomeworkVariables.pdb
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.dll
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\refint\HomeworkVariables.dll
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.pdb
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\HomeworkVariables.genruntimeconfig.cache
+C:\Users\taiwe\Documents\basic\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net8.0\ref\HomeworkVariables.dll

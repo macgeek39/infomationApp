@@ -12,5 +12,21 @@ string lastName = "Doe";
 Console.WriteLine( firstName + " " + lastName);
 
 // Person's Age
+
+int age = 20;
+
+Console.WriteLine(age);
+
 // If they are alive or not
+
+bool ifPersonLive = true;
+
+Console.WriteLine(ifPersonLive);
+
 // Person's phone number
+
+int firstThreeDigit = 435;
+int middleThreeDigit = 546;
+int lastFourDigit = 5647;
+
+Console.WriteLine(firstThreeDigit + "-" + middleThreeDigit + "-" + lastFourDigit);
